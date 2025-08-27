@@ -1,0 +1,8 @@
+configparser
+pandas
+numpy
+matplotlib
+sklearn
+torch
+neptune
+jupyter

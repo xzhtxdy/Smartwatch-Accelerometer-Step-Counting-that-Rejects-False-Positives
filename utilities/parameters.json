@@ -1,0 +1,15 @@
+{
+    "data_dir": "data",
+    "activityNames": [
+      "Activity1",
+      "Activity2",
+      "Activity3",
+      "Activity4",
+      "Activity5",
+      "Activity6",
+      "Activity7",
+      "Activity8",
+      "Activity9"],
+    "win_len": 100,
+    "win_stride":100
+}
