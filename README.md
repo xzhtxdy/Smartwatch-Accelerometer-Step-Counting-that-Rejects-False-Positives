@@ -22,3 +22,5 @@
    Run step counting tests on new walking data:
 
      python notebooks/step_counting/step_counting_test.py
+
+A demonstration video related to the project is publicly available at https://youtu.be/Ya8G9MEbbEs
